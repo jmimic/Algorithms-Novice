@@ -1,4 +1,4 @@
-# Python small projects
+# Python3 small projects
 Assumes correct syntax. Simple and small projects <br /> <br />
 ## Anagram printer.rar
 Generates and Prints list of all possible anagrams of a word (userinput) <br /> <br />
