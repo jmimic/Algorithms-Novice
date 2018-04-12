@@ -1,5 +1,7 @@
-# Python3 small projects
-Assumes correct syntax. Simple and small projects <br /> <br />
+# Algorithms written at a novice/beginner level
+All coded in Python3 with Notepad++ <br/>
+Assumes correct syntax <br/>
+Includes some small projects <br /> <br />
 ## Anagram printer.rar
 Generates and Prints list of all possible anagrams of a word (userinput) <br /> <br />
 ## Average mark of textfile marks.rar
